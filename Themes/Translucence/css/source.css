@@ -1,7 +1,7 @@
 :root {
   --app-bg: rgba(0,0,0,0);
   --app-blur: 6px;
-  --app-margin: 24px;
+  --app-margin: 0px;
   --app-radius: 10px;
   --main-rgb: 0,0,0;
   --main-content-opacity: 0.2;
